@@ -7,3 +7,6 @@
 🚀 I’m passionate about learning, collaborating on cool projects, and writing code that’s easy to read and maintain.
 🛠️ Currently sharpening my skills in testing, frontend architecture, and clean coding practices.
 📚 Always open to feedback, contributions, and new challenges.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=tokyonight)
+

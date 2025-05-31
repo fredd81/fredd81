@@ -10,16 +10,16 @@
 
 ---
 
-### 📊 Estadisticas de GitHub 
+### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredd81&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredd81&layout=compact&theme=radical)
 
 ---
 
 ### 📫 ¡Conectemos!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- 🌐 [Portfolio](https://tu-portfolio.com)
-- ✉️ freddydeaquino@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
+- 🌐 [Portafolio](https://tu-portfolio.com)  
+- ✉️ freddydeaquino@gmail.com  

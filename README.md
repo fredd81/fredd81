@@ -7,6 +7,19 @@
 🚀 I’m passionate about learning, collaborating on cool projects, and writing code that’s easy to read and maintain.
 🛠️ Currently sharpening my skills in testing, frontend architecture, and clean coding practices.
 📚 Always open to feedback, contributions, and new challenges.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=tokyonight)
+
+---
+
+### 📊 Estadisticas de GitHub 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredd81&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredd81&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 ¡Conectemos!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- 🌐 [Portfolio](https://tu-portfolio.com)
+- ✉️ freddydeaquino@gmail.com
